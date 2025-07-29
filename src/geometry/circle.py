@@ -2,7 +2,7 @@ from math import pi
 
 def calculate_area(r):
     """ 
-    Calculate area of a circle.
+    Calculate the area of a circle.
 
     Parameters 
     ----------
