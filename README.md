@@ -2,6 +2,10 @@
 
 This is a library of functions for geometric calculations.
 
+Created during NeuroHackademy 2025.
+
+With help from participants in the GitHub session.
+
 # Contributing
 
 We welcome contributions from the community. Please create a fork of the
