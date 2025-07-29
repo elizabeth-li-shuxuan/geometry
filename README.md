@@ -2,7 +2,7 @@
 
 This is a library of functions for geometric calculations.
 
-Created during NeuroHackademy 2025
+Created during NeuroHackademy 2025.
 
 # Contributing
 
